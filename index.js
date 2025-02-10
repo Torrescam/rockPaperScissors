@@ -2,8 +2,8 @@
 const youSelection = document.querySelector("#you-selectionDisplay");
 const botSelection = document.querySelector("#bot-selectionDisplay");
 
-const youScoreDisplay = document.querySelector("#you-score");
-const botScoreDisplay = document.querySelector("#bot-score");
+const youScoreDisplay = document.querySelector(".you-score");
+const botScoreDisplay = document.querySelector(".bot-score");
 
 //Adding eventListener to the button(rock, paper, scissors)
 const gameButtons = document.querySelectorAll(".buttons-container button");
