@@ -2,6 +2,8 @@
 
 A simple **Rock, Paper, Scissors** game where the player can play against the computer. The game dynamically tracks scores, displays results, and provides a reset functionality to restart the game.
 
+**Fully responsive design:** The game works on both desktop and mobile devices.
+
 ---
 
 ## 🎮 **How to Play**
@@ -17,23 +19,6 @@ A simple **Rock, Paper, Scissors** game where the player can play against the co
 
 ---
 
-## 🛠️ **Project Setup**
-
-You can run this project locally by following these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone git@github.com:Torrescam/rockPaperScissors.git
-   cd rockPaperScissors
-   ```
-
-## 🚀 **Features**
-
-- **Interactive gameplay:** Play directly against the computer.
-- **Dynamic score tracking:** Real-time updates for player and bot scores.
-- **Winner detection:** Displays a winner message when the game ends.
-- **Reset functionality:** Restart the game with a single button click.
-- **Responsive design:** The game works on different screen sizes.
-
 ## 🌐 **Live Demo**
+
 [Play the game here](https://torrescam.github.io/rockPaperScissors/)
